@@ -1,5 +1,5 @@
 #infiniflow/ragflow:latest
-ragflow-redis
-ragflow-mysql
+infiniflow/ragflow-redis
+infiniflow/ragflow-mysql
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
