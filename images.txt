@@ -12,4 +12,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #-------pubs-images-------
-ollama/ollama
+#ollama/ollama
+microsoft/OmniParser
