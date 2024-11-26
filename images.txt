@@ -13,4 +13,4 @@
 
 #-------pubs-images-------
 #ollama/ollama
-microsoft/OmniParser
+microsoft/omniparser
