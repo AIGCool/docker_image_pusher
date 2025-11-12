@@ -7,10 +7,3 @@ infiniflow/ragflow:v0.22.0
 hub.icert.top/opensearchproject/opensearch:2.19.1
 infiniflow/infinity:v0.6.5
 quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
-#docker.elastic.co/elasticsearch/elasticsearch:8.11.3
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-
-#-------pubs-images-------
-#ollama/ollama
-#microsoft/omniparser
