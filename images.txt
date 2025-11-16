@@ -4,7 +4,7 @@
 #infiniflow/ragflow:latest
 #指定版
 #infiniflow/ragflow:v0.21.1
-n8n-io/n8n
+n8nio/n8n
 #mysql:8.0.39
 #valkey/valkey:8
 ##hub.icert.top/opensearchproject/opensearch:2.19.1
